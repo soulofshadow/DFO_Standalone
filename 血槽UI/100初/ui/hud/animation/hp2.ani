@@ -1,0 +1,173 @@
+#PVF_File
+
+[LOOP]
+	1
+[SHADOW]
+	0
+[FRAME MAX]
+	15
+
+[FRAME000]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		0
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME001]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		1
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME002]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		2
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME003]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		3
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME004]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		4
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME005]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		5
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME006]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		6
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME007]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		7
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME008]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		8
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME009]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		9
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME010]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		10
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME011]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		11
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME012]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		12
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME013]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		13
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME014]
+	[IMAGE]
+		`interface2/hud/orbhorred.img`
+		14
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100

@@ -1,0 +1,260 @@
+#PVF_File
+
+[window]
+	[type]
+		`popup`
+	[horizontal alignment]
+		`left`
+	[vertical alignment]
+		`top`
+	[horizontal distance]
+		0
+	[vertical distance]
+		0
+	[tile type]
+		7
+	[size]
+		66	50
+	[controls]
+		[ui controls]
+			`[image]`
+			`0`	162	105	1
+			`interface2/hud/menu_iconver2.img`	1	32
+		[/ui controls]
+		[ui controls]
+			`[image]`
+			`0`	165	141	1
+			`interface2/hud/menu_iconver2.img`	1	44
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9100`	180	198	1
+			`我的信息`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1000`	180	163	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9101`	233	198	1
+			`物品栏`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1001`	233	163	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9102`	286	198	1
+			`任务`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1002`	286	163	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9103`	339	198	1
+			`技能`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1003`	339	163	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9104`	392	198	1
+			`副职业`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1004`	392	163	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9105`	445	198	1
+			`冒险团`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1005`	445	163	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9106`	498	198	1
+			`心情设置`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1006`	498	163	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9107`	551	198	1
+			`推荐伙伴`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`2000`	551	163	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9200`	180	252	1
+			`社交`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`2002`	180	217	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9201`	180	306	1
+			`寻找队伍`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`2001`	180	271	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9204`	180	360	1
+			`决斗场`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`3000`	180	325	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9205`	551	306	1
+			`拍卖行`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`3001`	551	271	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9302`	551	360	1
+			`金币寄售`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`3002`	551	325	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9207`	551	252	1
+			`百科辞典`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`4000`	551	217	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9500`	233	413	1
+			`设置`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`5000`	233	378	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9501`	286	413	1
+			`按键设置`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`5001`	286	378	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9503`	339	359	1
+			`选择角色`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`5003`	339	324	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9504`	392	359	1
+			`选择频道`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`5004`	392	324	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9505`	445	413	1
+			`返回城镇`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`5005`	445	378	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9506`	498	413	1
+			`结束游戏`	9	0	50	1	1	1	0	230	200	155
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`5006`	498	378	2
+			`interface2/hud/Menu_icon.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+	[/controls]
+	[ui controls]
+		`[image]`
+		`999`	162	447	1
+		`interface2/hud/menu_iconver2.img`	1	33
+	[/ui controls]
+	[ui controls]
+		`[image]`
+		`999`	165	432	1
+		`interface2/hud/menu_iconver2.img`	1	89
+	[/ui controls]
+[/window]

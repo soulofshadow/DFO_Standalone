@@ -1,0 +1,184 @@
+#PVF_File
+
+[LOOP]
+	1
+[SHADOW]
+	0
+[FRAME MAX]
+	16
+
+[FRAME000]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		0
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME001]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		1
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME002]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		2
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME003]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		3
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME004]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		4
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME005]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		5
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME006]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		6
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME007]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		7
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME008]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		8
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME009]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		9
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME010]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		10
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME011]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		11
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME012]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		12
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME013]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		13
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME014]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		14
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME015]
+	[IMAGE]
+		`interface2/hud/xcbj.img`
+		15
+	[IMAGE POS]
+		-212	-150
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100

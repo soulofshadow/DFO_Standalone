@@ -1,0 +1,324 @@
+#PVF_File
+
+[window]
+	[type]
+		`popup`
+	[horizontal alignment]
+		`left`
+	[vertical alignment]
+		`top`
+	[horizontal distance]
+		0
+	[vertical distance]
+		0
+	[tile type]
+		7
+	[size]
+		66	50
+	[controls]
+		[ui controls]
+			`[image]`
+			`0`	55	82	1
+			`interface2/hud/menu_iconver3.img`	1	3
+		[/ui controls]
+		[ui controls]
+			`[image]`
+			`0`	108	100	1
+			`interface2/hud/menu_iconver3.img`	1	16
+		[/ui controls]
+		[ui controls]
+			`[image]`
+			`0`	229	100	1
+			`interface2/hud/menu_iconver3.img`	1	17
+		[/ui controls]
+		[ui controls]
+			`[image]`
+			`0`	350	100	1
+			`interface2/hud/menu_iconver3.img`	1	18
+		[/ui controls]
+		[ui controls]
+			`[image]`
+			`0`	471	100	1
+			`interface2/hud/menu_iconver3.img`	1	19
+		[/ui controls]
+		[ui controls]
+			`[image]`
+			`0`	592	100	1
+			`interface2/hud/menu_iconver3.img`	1	20
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9100`	180	198	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1000`	107	126	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9101`	233	198	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1001`	107	158	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9103`	286	198	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1003`	107	190	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9102`	339	198	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1002`	107	222	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9104`	392	198	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1004`	107	254	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9106`	498	198	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1006`	107	286	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9105`	445	198	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`1005`	228	126	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9207`	498	252	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`9301`	228	158	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	105	106	107	108
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9302`	498	252	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`4000`	349	126	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9200`	180	252	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`9305`	349	158	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	101	102	103	104
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`1217`	180	252	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`2002`	470	126	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9107`	551	198	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`2000`	470	158	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9201`	233	252	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`2001`	470	190	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9204`	339	252	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`3000`	591	126	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9205`	392	252	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`3001`	591	158	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9302`	445	252	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`3002`	591	190	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9202`	286	252	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`2003`	591	222	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9400`	551	252	1
+			``	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`4001`	591	254	2
+			`interface2/hud/menu_iconver3.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9500`	251	525	1
+			`设置`	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`5000`	251	490	2
+			`interface2/hud/Menu_icon1.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9501`	304	525	1
+			`按键设置`	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`5001`	304	490	2
+			`interface2/hud/Menu_icon1.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9503`	357	525	1
+			`选择角色`	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`5003`	357	490	2
+			`interface2/hud/Menu_icon1.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9504`	410	525	1
+			`选择频道`	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`5004`	410	490	2
+			`interface2/hud/Menu_icon1.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9505`	463	525	1
+			`返回城镇`	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`5005`	463	490	2
+			`interface2/hud/Menu_icon1.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+		[ui controls]
+			`[text]`
+			`9506`	516	525	1
+			`结束游戏`	9	0	50	1	1	1	0	186	171	120
+		[/ui controls]
+		[ui controls]
+			`[button]`
+			`5006`	516	490	2
+			`interface2/hud/Menu_icon1.img`
+			`set path`	4	0	0	0	0
+		[/ui controls]
+	[/controls]
+	[ui controls]
+		`[image]`
+		`999`	94	480	1
+		`interface2/hud/menu_iconver3.img`	1	15
+	[/ui controls]
+	[ui controls]
+		`[image]`
+		`999`	55	543	1
+		`interface2/hud/menu_iconver3.img`	1	4
+	[/ui controls]
+[/window]

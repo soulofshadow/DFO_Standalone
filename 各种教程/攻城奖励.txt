@@ -1,0 +1,110 @@
+        case 1:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 2680556, 5);
+            break;
+        case 2:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 3037, 10);
+            break;
+        case 3:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 690000221, 1);
+            break;
+        case 4:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 1085, 2);
+            break;
+        case 5:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 1085, 5);
+            break;
+        case 6:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 690000221, 1);
+            break;
+        case 7:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 8, 2);
+            break;
+        case 8:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 8, 5);
+            break;
+        case 9:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 1038, 5);
+            break;
+        case 10:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 14, 1);
+            break;
+        case 11:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 3037, 10);
+            break;
+        case 12:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 1038, 5);
+            break;
+        case 13:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 15, 1);
+            break;
+        case 14:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 1204, 1);
+            break;
+        case 15:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 3262, 2);
+            break;
+        case 16:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 2680557, 5);
+            break;
+        case 17:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 2600261, 1);
+            break;
+        case 18:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 1204, 1);
+            break;
+        case 19:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 690000222, 1);
+            break;
+        case 20:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 1085, 2);
+            break;
+        case 21:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 8, 2);
+            break;
+        case 22:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 1085, 2);
+            break;
+        case 23:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 8, 5);
+            break;
+        case 24:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 15, 1);
+            break;
+        case 25:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 690000222, 2);
+            break;
+        case 26:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 2680558, 5);
+            break;
+        case 27:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 3262, 2);
+            break;
+        case 28:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 10000160, 1);
+            break;
+        case 29:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 1085, 2);
+            break;
+        case 30:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 900, 1);
+            break;
+        case 31:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 3037, 5);
+            break;
+        case 32:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 690000222, 1);
+            break;
+        case 33:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 8, 2);
+            break;
+        case 34:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 1085, 2);
+            break;
+        case 35:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 900, 1);
+            break;
+        case 36:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 2680559, 1);
+            break;
+        default:
+            CMailBoxHelperReqDBSendNewSystemMail(user, 88888889, 1);

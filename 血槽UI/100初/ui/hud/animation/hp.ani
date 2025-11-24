@@ -1,0 +1,338 @@
+#PVF_File
+
+[LOOP]
+	1
+[SHADOW]
+	0
+[FRAME MAX]
+	30
+
+[FRAME000]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		0
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME001]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		1
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME002]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		2
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME003]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		3
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME004]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		4
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME005]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		5
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME006]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		6
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME007]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		7
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME008]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		8
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME009]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		9
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME010]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		10
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME011]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		11
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME012]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		12
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME013]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		13
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME014]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		14
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME015]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		15
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME016]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		16
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME017]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		17
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME018]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		18
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME019]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		19
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME020]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		20
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME021]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		21
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME022]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		22
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME023]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		23
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME024]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		24
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME025]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		25
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME026]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		26
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME027]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		27
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME028]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		28
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100
+
+[FRAME029]
+	[IMAGE]
+		`interface2/hud/hp.img`
+		29
+	[IMAGE POS]
+		-149	-208
+	[GRAPHIC EFFECT]
+		`LINEARDODGE`
+	[DELAY]
+		100

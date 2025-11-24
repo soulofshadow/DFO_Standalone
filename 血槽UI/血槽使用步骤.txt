@@ -1,0 +1,5 @@
+1.打开【pvfUtility】加载PVF，点击导入文件，把ui+sqr导入PVF，左上角保存封包。
+
+2.把血槽文件里的【HUD】放入客户端目录覆盖。
+
+3.把血槽文件里的【sprite_interface2_hud.NPK】放入客户端【ImagePacks2】覆盖。
